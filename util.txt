@@ -1,2 +1,3 @@
 utility function version 3
-# Bsdk gand faad denge
+# 
+git
