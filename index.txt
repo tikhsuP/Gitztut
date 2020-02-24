@@ -1,2 +1,7 @@
 this is my first software version 3 in github
+<<<<<<< HEAD
 ok
+=======
+
+okay, i wish you all the best.
+>>>>>>> Update index.txt
