@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is my first software version 3 in github
 <<<<<<< HEAD
 ok
@@ -5,3 +6,6 @@ ok
 
 okay, i wish you all the best.
 >>>>>>> Update index.txt
+=======
+this is my first software version 3 in githu
+>>>>>>> 2afe91ddfb5a9726b577273fa66a57bc61d2321a
